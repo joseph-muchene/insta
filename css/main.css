@@ -1,0 +1,8 @@
+body {
+  position: relative;
+}
+.top-info {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+}
